@@ -1,158 +1,1256 @@
-#EXTM3U
-
-==========================================
-
-GLOBO (CAPITAL E INTERIOR)
-
-==========================================
-
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP SD" tvg-logo="" group-title="Globo",Globo SP SD
-http://link_exemplo.com/globo_sp_sd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="" group-title="Globo",Globo SP HD
-http://link_exemplo.com/globo_sp_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP FHD" tvg-logo="" group-title="Globo",Globo SP FHD
-http://link_exemplo.com/globo_sp_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP 4K" tvg-logo="" group-title="Globo",Globo SP 4K
-http://link_exemplo.com/globo_sp_4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas FHD" tvg-logo="" group-title="Globo",EPTV Campinas FHD
-http://link_exemplo.com/eptv_campinas_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM Sorocaba HD" tvg-logo="" group-title="Globo",TV TEM Sorocaba HD
-http://link_exemplo.com/tvtem_sorocaba_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Vanguarda SJC FHD" tvg-logo="" group-title="Globo",TV Vanguarda SJC FHD
-http://link_exemplo.com/vanguarda_sjc_fhd.m3u8
-
-==========================================
-
-SBT
-
-==========================================
-
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP SD" tvg-logo="" group-title="SBT",SBT SP SD
-http://link_exemplo.com/sbt_sp_sd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD" tvg-logo="" group-title="SBT",SBT SP HD
-http://link_exemplo.com/sbt_sp_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP FHD" tvg-logo="" group-title="SBT",SBT SP FHD
-http://link_exemplo.com/sbt_sp_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV (SBT Santos) FHD" tvg-logo="" group-title="SBT",VTV (SBT Santos) FHD
-http://link_exemplo.com/vtv_santos_fhd.m3u8
-
-==========================================
-
-RECORD
-
-==========================================
-
-#EXTINF:-1 tvg-id="" tvg-name="Record SP SD" tvg-logo="" group-title="Record",Record SP SD
-http://link_exemplo.com/record_sp_sd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Record SP HD" tvg-logo="" group-title="Record",Record SP HD
-http://link_exemplo.com/record_sp_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Record SP FHD" tvg-logo="" group-title="Record",Record SP FHD
-http://link_exemplo.com/record_sp_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Record Interior SP FHD" tvg-logo="" group-title="Record",Record Interior SP FHD
-http://link_exemplo.com/record_interior_fhd.m3u8
-
-==========================================
-
-OUTROS CANAIS ABERTOS (SOMENTE SP)
-
-==========================================
-
-#EXTINF:-1 tvg-id="" tvg-name="Band SP HD" tvg-logo="" group-title="TV Aberta",Band SP HD
-http://link_exemplo.com/band_sp_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Band SP FHD" tvg-logo="" group-title="TV Aberta",Band SP FHD
-http://link_exemplo.com/band_sp_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Cultura SP FHD" tvg-logo="" group-title="TV Aberta",TV Cultura SP FHD
-http://link_exemplo.com/cultura_sp_fhd.m3u8
-
-==========================================
-
-NOTÍCIAS
-
-==========================================
-
-#EXTINF:-1 tvg-id="" tvg-name="GloboNews HD" tvg-logo="" group-title="Notícias",GloboNews HD
-http://link_exemplo.com/globonews_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GloboNews FHD" tvg-logo="" group-title="Notícias",GloboNews FHD
-http://link_exemplo.com/globonews_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil FHD" tvg-logo="" group-title="Notícias",CNN Brasil FHD
-http://link_exemplo.com/cnn_brasil_fhd.m3u8
-
-==========================================
-
-ESPORTES - SPORTV E PREMIERE
-
-==========================================
-
-#EXTINF:-1 tvg-id="" tvg-name="SporTV SD" tvg-logo="" group-title="Esportes - SporTV/Premiere",SporTV SD
-http://link_exemplo.com/sportv1_sd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SporTV HD" tvg-logo="" group-title="Esportes - SporTV/Premiere",SporTV HD
-http://link_exemplo.com/sportv1_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SporTV FHD" tvg-logo="" group-title="Esportes - SporTV/Premiere",SporTV FHD
-http://link_exemplo.com/sportv1_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 4K" tvg-logo="" group-title="Esportes - SporTV/Premiere",SporTV 4K
-http://link_exemplo.com/sportv1_4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="" group-title="Esportes - SporTV/Premiere",SporTV 2 HD
-http://link_exemplo.com/sportv2_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 FHD" tvg-logo="" group-title="Esportes - SporTV/Premiere",SporTV 2 FHD
-http://link_exemplo.com/sportv2_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD" tvg-logo="" group-title="Esportes - SporTV/Premiere",SporTV 3 HD
-http://link_exemplo.com/sportv3_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 FHD" tvg-logo="" group-title="Esportes - SporTV/Premiere",SporTV 3 FHD
-http://link_exemplo.com/sportv3_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="" group-title="Esportes - SporTV/Premiere",Premiere Clubes HD
-http://link_exemplo.com/premiere_clubes_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes FHD" tvg-logo="" group-title="Esportes - SporTV/Premiere",Premiere Clubes FHD
-http://link_exemplo.com/premiere_clubes_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 HD" tvg-logo="" group-title="Esportes - SporTV/Premiere",Premiere 1 HD
-http://link_exemplo.com/premiere1_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 FHD" tvg-logo="" group-title="Esportes - SporTV/Premiere",Premiere 1 FHD
-http://link_exemplo.com/premiere1_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="" group-title="Esportes - SporTV/Premiere",Premiere 2 HD
-http://link_exemplo.com/premiere2_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 FHD" tvg-logo="" group-title="Esportes - SporTV/Premiere",Premiere 2 FHD
-http://link_exemplo.com/premiere2_fhd.m3u8
-
-==========================================
-
-ESPORTES - ESPN
-
-==========================================
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="Esportes - ESPN",ESPN HD
-http://link_exemplo.com/espn_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="" group-title="Esportes - ESPN",ESPN FHD
-http://link_exemplo.com/espn_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="" group-title="Esportes - ESPN",ESPN 4K
-http://link_exemplo.com/espn_4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="" group-title="Esportes - ESPN",ESPN 2 HD
-http://link_exemplo.com/espn2_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="" group-title="Esportes - ESPN",ESPN 2 FHD
-http://link_exemplo.com/espn2_fhd.m3u8
-
-==========================================
-
-VARIEDADES / ENTRETENIMENTO
-
-==========================================
-
-#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="" group-title="Variedades",Multishow HD
-http://link_exemplo.com/multishow_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Multishow FHD" tvg-logo="" group-title="Variedades",Multishow FHD
-http://link_exemplo.com/multishow_fhd.m3u8
-
-==========================================
-
-FILMES E SÉRIES (CANAIS LINEARES)
-
-==========================================
-
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium FHD" tvg-logo="" group-title="Filmes e Séries",Telecine Premium FHD
-http://link_exemplo.com/tcpremium_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action FHD" tvg-logo="" group-title="Filmes e Séries",Telecine Action FHD
-http://link_exemplo.com/tcaction_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="" group-title="Filmes e Séries",HBO FHD
-http://link_exemplo.com/hbo_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD" tvg-logo="" group-title="Filmes e Séries",HBO 2 FHD
-http://link_exemplo.com/hbo2_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel FHD" tvg-logo="" group-title="Filmes e Séries",Warner Channel FHD
-http://link_exemplo.com/warner_fhd.m3u8
+#EXTM3U x-tvg-url="http://up.kiwi/epg/351921603109/34939156"
+#EXTINF:-1 group-title="ABERTOS SP",BAND SP 4K
+http://up.kiwi/351921603109/34939156/296925
+#EXTINF:-1 group-title="ABERTOS SP",BAND SP FHD
+http://up.kiwi/351921603109/34939156/296926
+#EXTINF:-1 group-title="ABERTOS SP",BAND SP HD
+http://up.kiwi/351921603109/34939156/296927
+#EXTINF:-1 group-title="ABERTOS SP",BAND SP SD
+http://up.kiwi/351921603109/34939156/135
+#EXTINF:-1 group-title="ABERTOS SP",BAND SP SD
+http://up.kiwi/351921603109/34939156/296928
+#EXTINF:-1 group-title="ABERTOS SP",BAND SP BAURU HD
+http://up.kiwi/351921603109/34939156/137
+#EXTINF:-1 group-title="ABERTOS SP",BAND SP CAMPINAS HD
+http://up.kiwi/351921603109/34939156/296911
+#EXTINF:-1 group-title="ABERTOS SP",BAND SP CAMPINAS SD
+http://up.kiwi/351921603109/34939156/138
+#EXTINF:-1 group-title="ABERTOS SP",BAND SP PRESIDENTE PRUDENTE SD
+http://up.kiwi/351921603109/34939156/141
+#EXTINF:-1 group-title="ABERTOS SP",BAND SP SÃO JOSÉ DOS CAMPOS HD
+http://up.kiwi/351921603109/34939156/296924
+#EXTINF:-1 group-title="ABERTOS SP",BAND SP VALE SD
+http://up.kiwi/351921603109/34939156/143
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP 4K
+http://up.kiwi/351921603109/34939156/296727
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP UHD
+http://up.kiwi/351921603109/34939156/296731
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP UHD ALT
+http://up.kiwi/351921603109/34939156/305208
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP FHD
+http://up.kiwi/351921603109/34939156/296728
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP FHD ALT
+http://up.kiwi/351921603109/34939156/305206
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP HD
+http://up.kiwi/351921603109/34939156/296729
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP HD ALT
+http://up.kiwi/351921603109/34939156/305205
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP SD
+http://up.kiwi/351921603109/34939156/296730
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP HD²
+http://up.kiwi/351921603109/34939156/295843
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP SD²
+http://up.kiwi/351921603109/34939156/295842
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP EPTV CAMPINAS FHD
+http://up.kiwi/351921603109/34939156/296699
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP EPTV CAMPINAS HD
+http://up.kiwi/351921603109/34939156/296700
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP EPTV CAMPINAS SD
+http://up.kiwi/351921603109/34939156/296701
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP EPTV RIBEIRÃO HD
+http://up.kiwi/351921603109/34939156/296702
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP EPTV SÃO CARLOS HD
+http://up.kiwi/351921603109/34939156/296705
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP TV DIÁRIO HD
+http://up.kiwi/351921603109/34939156/296732
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP TV DIÁRIO MOGI DAS CRUZES HD
+http://up.kiwi/351921603109/34939156/296839
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP TV FRONTEIRA PAULISTA HD
+http://up.kiwi/351921603109/34939156/296733
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP TV FRONTEIRA PAULISTA HD²
+http://up.kiwi/351921603109/34939156/295858
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP TV TEM ITAPETININGA HD
+http://up.kiwi/351921603109/34939156/296744
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP TV TEM SÃO JOSÉ DO RIO PRETO HD
+http://up.kiwi/351921603109/34939156/296725
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP TV TEM SÃO JOSÉ DO RIO PRETO SD
+http://up.kiwi/351921603109/34939156/296726
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP TV TEM SOROCABA HD
+http://up.kiwi/351921603109/34939156/296745
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP TV TEM SOROCABA SD
+http://up.kiwi/351921603109/34939156/296746
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP TV TRIBUNA HD
+http://up.kiwi/351921603109/34939156/296748
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP TV TRIBUNA SD
+http://up.kiwi/351921603109/34939156/296749
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP TV VANGUARDA SÃO JOSÉ DOS CAMPOS FHD
+http://up.kiwi/351921603109/34939156/296774
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP TV VANGUARDA SÃO JOSÉ DOS CAMPOS HD
+http://up.kiwi/351921603109/34939156/296775
+#EXTINF:-1 group-title="ABERTOS SP",GLOBO SP TV VANGUARDA TAUBATÉ HD
+http://up.kiwi/351921603109/34939156/296747
+#EXTINF:-1 group-title="ABERTOS SP",RECORD SP UHD
+http://up.kiwi/351921603109/34939156/296686
+#EXTINF:-1 group-title="ABERTOS SP",RECORD SP FHD
+http://up.kiwi/351921603109/34939156/296684
+#EXTINF:-1 group-title="ABERTOS SP",RECORD SP HD
+http://up.kiwi/351921603109/34939156/296685
+#EXTINF:-1 group-title="ABERTOS SP",RECORD SP SD
+http://up.kiwi/351921603109/34939156/305210
+#EXTINF:-1 group-title="ABERTOS SP",RECORD SP BAURU HD
+http://up.kiwi/351921603109/34939156/296656
+#EXTINF:-1 group-title="ABERTOS SP",RECORD SP CAMPINAS HD
+http://up.kiwi/351921603109/34939156/296660
+#EXTINF:-1 group-title="ABERTOS SP",RECORD SP PAULISTA BAURU HD
+http://up.kiwi/351921603109/34939156/296668
+#EXTINF:-1 group-title="ABERTOS SP",RECORD SP RIBEIRÃO PRETO HD
+http://up.kiwi/351921603109/34939156/296672
+#EXTINF:-1 group-title="ABERTOS SP",RECORD SP RIO PRETO HD
+http://up.kiwi/351921603109/34939156/296673
+#EXTINF:-1 group-title="ABERTOS SP",RECORD SP SANTOS HD
+http://up.kiwi/351921603109/34939156/296679
+#EXTINF:-1 group-title="ABERTOS SP",SBT SP 4K
+http://up.kiwi/351921603109/34939156/296871
+#EXTINF:-1 group-title="ABERTOS SP",SBT SP FHD
+http://up.kiwi/351921603109/34939156/296872
+#EXTINF:-1 group-title="ABERTOS SP",SBT SP HD
+http://up.kiwi/351921603109/34939156/296873
+#EXTINF:-1 group-title="ABERTOS SP",SBT SP INTERIOR HD
+http://up.kiwi/351921603109/34939156/296859
+#EXTINF:-1 group-title="ABERTOS SP",SBT SP INTERIOR PAULISTA HD
+http://up.kiwi/351921603109/34939156/1196
+#EXTINF:-1 group-title="ABERTOS SP",SBT SP RIBEIRÃO PRETO HD
+http://up.kiwi/351921603109/34939156/296750
+#EXTINF:-1 group-title="ABERTOS SP",SBT SP VTV CAMPINAS HD
+http://up.kiwi/351921603109/34939156/296751
+#EXTINF:-1 group-title="SPORTV",SPORTV 4K
+http://up.kiwi/351921603109/34939156/299681
+#EXTINF:-1 group-title="SPORTV",SPORTV FHD
+http://up.kiwi/351921603109/34939156/305202
+#EXTINF:-1 group-title="SPORTV",SPORTV FHD H265
+http://up.kiwi/351921603109/34939156/1229
+#EXTINF:-1 group-title="SPORTV",SPORTV HD
+http://up.kiwi/351921603109/34939156/1231
+#EXTINF:-1 group-title="SPORTV",SPORTV HD
+http://up.kiwi/351921603109/34939156/305203
+#EXTINF:-1 group-title="SPORTV",SPORTV SD
+http://up.kiwi/351921603109/34939156/1233
+#EXTINF:-1 group-title="SPORTV",SPORTV SD
+http://up.kiwi/351921603109/34939156/305204
+#EXTINF:-1 group-title="SPORTV",SPORTV FHD²
+http://up.kiwi/351921603109/34939156/296207
+#EXTINF:-1 group-title="SPORTV",SPORTV HD²
+http://up.kiwi/351921603109/34939156/296206
+#EXTINF:-1 group-title="SPORTV",SPORTV SD²
+http://up.kiwi/351921603109/34939156/296205
+#EXTINF:-1 group-title="SPORTV",SPORTV 2 UHD
+http://up.kiwi/351921603109/34939156/1219
+#EXTINF:-1 group-title="SPORTV",SPORTV 2 FHD
+http://up.kiwi/351921603109/34939156/296210
+#EXTINF:-1 group-title="SPORTV",SPORTV 2 HD
+http://up.kiwi/351921603109/34939156/1221
+#EXTINF:-1 group-title="SPORTV",SPORTV 2 SD
+http://up.kiwi/351921603109/34939156/1223
+#EXTINF:-1 group-title="SPORTV",SPORTV 2 HD²
+http://up.kiwi/351921603109/34939156/296209
+#EXTINF:-1 group-title="SPORTV",SPORTV 2 SD²
+http://up.kiwi/351921603109/34939156/296215
+#EXTINF:-1 group-title="SPORTV",SPORTV 3 UHD
+http://up.kiwi/351921603109/34939156/296213
+#EXTINF:-1 group-title="SPORTV",SPORTV 3 FHD H265
+http://up.kiwi/351921603109/34939156/1224
+#EXTINF:-1 group-title="SPORTV",SPORTV 3 HD
+http://up.kiwi/351921603109/34939156/1226
+#EXTINF:-1 group-title="SPORTV",SPORTV 3 SD
+http://up.kiwi/351921603109/34939156/1228
+#EXTINF:-1 group-title="SPORTV",SPORTV 3 HD²
+http://up.kiwi/351921603109/34939156/296212
+#EXTINF:-1 group-title="SPORTV",SPORTV 3 SD²
+http://up.kiwi/351921603109/34939156/296211
+#EXTINF:-1 group-title="PREMIERE",Premiere Annee Legendado - 2018
+http://up.kiwi/movie/351921603109/34939156/1054284.mp4
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES 4K
+http://up.kiwi/351921603109/34939156/299679
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES UHD
+http://up.kiwi/351921603109/34939156/305246
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES FHD
+http://up.kiwi/351921603109/34939156/896
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES HD
+http://up.kiwi/351921603109/34939156/898
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES SD
+http://up.kiwi/351921603109/34939156/900
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES HD²
+http://up.kiwi/351921603109/34939156/296319
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES SD²
+http://up.kiwi/351921603109/34939156/296320
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 2 4K
+http://up.kiwi/351921603109/34939156/305247
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 2 FHD
+http://up.kiwi/351921603109/34939156/859
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 2 HD
+http://up.kiwi/351921603109/34939156/861
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 2 SD
+http://up.kiwi/351921603109/34939156/863
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 4K
+http://up.kiwi/351921603109/34939156/305248
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 FHD H265
+http://up.kiwi/351921603109/34939156/865
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 HD
+http://up.kiwi/351921603109/34939156/867
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 SD
+http://up.kiwi/351921603109/34939156/869
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 HD²
+http://up.kiwi/351921603109/34939156/296309
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 SD²
+http://up.kiwi/351921603109/34939156/296310
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 4 4k
+http://up.kiwi/351921603109/34939156/873
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 4 FHD
+http://up.kiwi/351921603109/34939156/296311
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 4 HD
+http://up.kiwi/351921603109/34939156/296312
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 4 SD
+http://up.kiwi/351921603109/34939156/875
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 5 4K
+http://up.kiwi/351921603109/34939156/305249
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 5 FHD H265
+http://up.kiwi/351921603109/34939156/877
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 5 HD
+http://up.kiwi/351921603109/34939156/879
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 5 SD
+http://up.kiwi/351921603109/34939156/881
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 5 HD²
+http://up.kiwi/351921603109/34939156/296313
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 5 SD²
+http://up.kiwi/351921603109/34939156/296314
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 6 4K
+http://up.kiwi/351921603109/34939156/305250
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 6 FHD H265
+http://up.kiwi/351921603109/34939156/883
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 6 HD
+http://up.kiwi/351921603109/34939156/885
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 6 SD
+http://up.kiwi/351921603109/34939156/887
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 6 HD²
+http://up.kiwi/351921603109/34939156/296315
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 6 SD²
+http://up.kiwi/351921603109/34939156/296316
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 7 4K
+http://up.kiwi/351921603109/34939156/296318
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 7 FHD H265
+http://up.kiwi/351921603109/34939156/889
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 7 HD
+http://up.kiwi/351921603109/34939156/891
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 7 SD
+http://up.kiwi/351921603109/34939156/893
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 7 HD²
+http://up.kiwi/351921603109/34939156/296317
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 8 SD
+http://up.kiwi/351921603109/34939156/895
+#EXTINF:-1 group-title="ESPN",ESPN 4K
+http://up.kiwi/351921603109/34939156/299671
+#EXTINF:-1 group-title="ESPN",ESPN FHD
+http://up.kiwi/351921603109/34939156/296354
+#EXTINF:-1 group-title="ESPN",ESPN FHD H265
+http://up.kiwi/351921603109/34939156/504
+#EXTINF:-1 group-title="ESPN",ESPN HD
+http://up.kiwi/351921603109/34939156/506
+#EXTINF:-1 group-title="ESPN",ESPN SD
+http://up.kiwi/351921603109/34939156/508
+#EXTINF:-1 group-title="ESPN",ESPN HD²
+http://up.kiwi/351921603109/34939156/296355
+#EXTINF:-1 group-title="ESPN",ESPN SD²
+http://up.kiwi/351921603109/34939156/296356
+#EXTINF:-1 group-title="ESPN",ESPN 2 4K
+http://up.kiwi/351921603109/34939156/477
+#EXTINF:-1 group-title="ESPN",ESPN 2 FHD H265
+http://up.kiwi/351921603109/34939156/475
+#EXTINF:-1 group-title="ESPN",ESPN 2 HD
+http://up.kiwi/351921603109/34939156/296550
+#EXTINF:-1 group-title="ESPN",ESPN 2 SD
+http://up.kiwi/351921603109/34939156/296551
+#EXTINF:-1 group-title="ESPN",ESPN 3 4K
+http://up.kiwi/351921603109/34939156/299670
+#EXTINF:-1 group-title="ESPN",ESPN 3 FHD H265
+http://up.kiwi/351921603109/34939156/481
+#EXTINF:-1 group-title="ESPN",ESPN 3 HD
+http://up.kiwi/351921603109/34939156/296552
+#EXTINF:-1 group-title="ESPN",ESPN 3 SD
+http://up.kiwi/351921603109/34939156/296553
+#EXTINF:-1 group-title="ESPN",ESPN 4 4K
+http://up.kiwi/351921603109/34939156/299669
+#EXTINF:-1 group-title="ESPN",ESPN 4 FHD
+http://up.kiwi/351921603109/34939156/487
+#EXTINF:-1 group-title="ESPN",ESPN 4 HD
+http://up.kiwi/351921603109/34939156/489
+#EXTINF:-1 group-title="ESPN",ESPN 4 SD
+http://up.kiwi/351921603109/34939156/491
+#EXTINF:-1 group-title="ESPN",ESPN 4 HD²
+http://up.kiwi/351921603109/34939156/296554
+#EXTINF:-1 group-title="ESPN",ESPN 4 SD²
+http://up.kiwi/351921603109/34939156/296555
+#EXTINF:-1 group-title="ESPN",ESPN 5 4K
+http://up.kiwi/351921603109/34939156/495
+#EXTINF:-1 group-title="ESPN",ESPN 5 FHD H265
+http://up.kiwi/351921603109/34939156/493
+#EXTINF:-1 group-title="ESPN",ESPN 5 HD
+http://up.kiwi/351921603109/34939156/296556
+#EXTINF:-1 group-title="ESPN",ESPN 5 HD ALT
+http://up.kiwi/351921603109/34939156/497
+#EXTINF:-1 group-title="ESPN",ESPN 5 SD
+http://up.kiwi/351921603109/34939156/296557
+#EXTINF:-1 group-title="ESPN",ESPN 6 4K
+http://up.kiwi/351921603109/34939156/305236
+#EXTINF:-1 group-title="ESPN",ESPN 6 FHD
+http://up.kiwi/351921603109/34939156/305234
+#EXTINF:-1 group-title="ESPN",ESPN 6 HD
+http://up.kiwi/351921603109/34939156/296558
+#EXTINF:-1 group-title="ESPN",ESPN 6 SD
+http://up.kiwi/351921603109/34939156/296559
+#EXTINF:-1 group-title="ESPORTES",BAND SPORTS FHD H265
+http://up.kiwi/351921603109/34939156/145
+#EXTINF:-1 group-title="ESPORTES",BAND SPORTS HD
+http://up.kiwi/351921603109/34939156/147
+#EXTINF:-1 group-title="ESPORTES",BAND SPORTS SD
+http://up.kiwi/351921603109/34939156/149
+#EXTINF:-1 group-title="ESPORTES",BAND SPORTS 4K²
+http://up.kiwi/351921603109/34939156/296492
+#EXTINF:-1 group-title="ESPORTES",BAND SPORTS HD²
+http://up.kiwi/351921603109/34939156/296480
+#EXTINF:-1 group-title="ESPORTES",BAND SPORTS SD²
+http://up.kiwi/351921603109/34939156/296481
+#EXTINF:-1 group-title="ESPORTES",CAZE TV
+http://up.kiwi/351921603109/34939156/212
+#EXTINF:-1 group-title="ESPORTES",CAZETV 01 HD
+http://up.kiwi/351921603109/34939156/296538
+#EXTINF:-1 group-title="ESPORTES",CAZETV 01 HD ALT
+http://up.kiwi/351921603109/34939156/296541
+#EXTINF:-1 group-title="ESPORTES",CAZETV 02 HD
+http://up.kiwi/351921603109/34939156/296539
+#EXTINF:-1 group-title="ESPORTES",CAZETV 02 HD ALT
+http://up.kiwi/351921603109/34939156/296542
+#EXTINF:-1 group-title="ESPORTES",CAZETV 03 HD
+http://up.kiwi/351921603109/34939156/296540
+#EXTINF:-1 group-title="ESPORTES",CAZETV 03 HD ALT
+http://up.kiwi/351921603109/34939156/296543
+#EXTINF:-1 group-title="ESPORTES",CAZETV 04 HD
+http://up.kiwi/351921603109/34939156/296544
+#EXTINF:-1 group-title="ESPORTES",COMBATE 4K
+http://up.kiwi/351921603109/34939156/299665
+#EXTINF:-1 group-title="ESPORTES",COMBATE FHD H265
+http://up.kiwi/351921603109/34939156/278
+#EXTINF:-1 group-title="ESPORTES",COMBATE HD
+http://up.kiwi/351921603109/34939156/280
+#EXTINF:-1 group-title="ESPORTES",COMBATE SD
+http://up.kiwi/351921603109/34939156/282
+#EXTINF:-1 group-title="ESPORTES",COMBATE HD²
+http://up.kiwi/351921603109/34939156/296482
+#EXTINF:-1 group-title="ESPORTES",COMBATE SD²
+http://up.kiwi/351921603109/34939156/296483
+#EXTINF:-1 group-title="ESPORTES",DAZN 1 HD
+http://up.kiwi/351921603109/34939156/297018
+#EXTINF:-1 group-title="ESPORTES",DAZN 2 HD
+http://up.kiwi/351921603109/34939156/297019
+#EXTINF:-1 group-title="ESPORTES",DAZN 3 HD
+http://up.kiwi/351921603109/34939156/297020
+#EXTINF:-1 group-title="ESPORTES",DAZN 4 HD
+http://up.kiwi/351921603109/34939156/297021
+#EXTINF:-1 group-title="ESPORTES",DAZN 5 HD
+http://up.kiwi/351921603109/34939156/297022
+#EXTINF:-1 group-title="ESPORTES",LIGA FUTSAL 2 PPV HD
+http://up.kiwi/351921603109/34939156/715
+#EXTINF:-1 group-title="ESPORTES",LIGA FUTSAL 2 PPV SD
+http://up.kiwi/351921603109/34939156/716
+#EXTINF:-1 group-title="ESPORTES",LIGA FUTSAL PPV HD
+http://up.kiwi/351921603109/34939156/717
+#EXTINF:-1 group-title="ESPORTES",LIGA FUTSAL PPV SD
+http://up.kiwi/351921603109/34939156/718
+#EXTINF:-1 group-title="ESPORTES",NSPORTS FHD
+http://up.kiwi/351921603109/34939156/296484
+#EXTINF:-1 group-title="ESPORTES",NSPORTS HD
+http://up.kiwi/351921603109/34939156/296485
+#EXTINF:-1 group-title="ESPORTES",NSPORTS 1 PPV HD
+http://up.kiwi/351921603109/34939156/812
+#EXTINF:-1 group-title="ESPORTES",NSPORTS 2 PPV HD
+http://up.kiwi/351921603109/34939156/814
+#EXTINF:-1 group-title="ESPORTES",NSPORTS 3 PPV HD
+http://up.kiwi/351921603109/34939156/815
+#EXTINF:-1 group-title="ESPORTES",NSPORTS 4 PPV HD
+http://up.kiwi/351921603109/34939156/816
+#EXTINF:-1 group-title="ESPORTES",NSPORTS 5 PPV HD
+http://up.kiwi/351921603109/34939156/817
+#EXTINF:-1 group-title="ESPORTES",NSPORTS 6 PPV HD
+http://up.kiwi/351921603109/34939156/818
+#EXTINF:-1 group-title="ESPORTES",NSPORTS 7 PPV HD
+http://up.kiwi/351921603109/34939156/819
+#EXTINF:-1 group-title="ESPORTES",SPORTYNET 01 HD
+http://up.kiwi/351921603109/34939156/296530
+#EXTINF:-1 group-title="ESPORTES",SPORTYNET 01 HD ALT
+http://up.kiwi/351921603109/34939156/296531
+#EXTINF:-1 group-title="ESPORTES",SPORTYNET 02 HD
+http://up.kiwi/351921603109/34939156/296532
+#EXTINF:-1 group-title="ESPORTES",SPORTYNET 02 HD ALT
+http://up.kiwi/351921603109/34939156/296533
+#EXTINF:-1 group-title="ESPORTES",SPORTYNET 3 HD
+http://up.kiwi/351921603109/34939156/296534
+#EXTINF:-1 group-title="ESPORTES",SPORTYNET 3 HD ALT
+http://up.kiwi/351921603109/34939156/296535
+#EXTINF:-1 group-title="ESPORTES",SPORTYNET 4 HD
+http://up.kiwi/351921603109/34939156/296536
+#EXTINF:-1 group-title="ESPORTES",UFC FIGHT 01
+http://up.kiwi/351921603109/34939156/300377
+#EXTINF:-1 group-title="ESPORTES",UFC FIGHT 02
+http://up.kiwi/351921603109/34939156/300378
+#EXTINF:-1 group-title="ESPORTES",UFC FIGHT 03
+http://up.kiwi/351921603109/34939156/300379
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 253: Kape vs. Almabayev [Card Completo] - 2025
+http://up.kiwi/movie/351921603109/34939156/1037160.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 254: Vettori vs. Dolidze 2 [Card Completo] - 2025
+http://up.kiwi/movie/351921603109/34939156/1038528.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 256: Burns vs. Morales - 2025
+http://up.kiwi/movie/351921603109/34939156/1038485.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 257: Walker vs. Zhang - 2025
+http://up.kiwi/movie/351921603109/34939156/1037114.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 258: Imavov vs. Borralho - 2025
+http://up.kiwi/movie/351921603109/34939156/1037288.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 259: Lopes vs. Silva (2025)
+http://up.kiwi/movie/351921603109/34939156/1265707.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 260: Ulberg vs. Reyes (2025)
+http://up.kiwi/movie/351921603109/34939156/1265694.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 261: Oliveira vs. Gamrot (2025)
+http://up.kiwi/movie/351921603109/34939156/1265717.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 262: de Ridder vs. Allen (2025)
+http://up.kiwi/movie/351921603109/34939156/1265692.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 263: Garcia vs. Onama (2025)
+http://up.kiwi/movie/351921603109/34939156/1265716.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 264: Bonfim vs. Brown (2025)
+http://up.kiwi/movie/351921603109/34939156/1265695.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 265: Tsarukyan vs. Hooker (2025)
+http://up.kiwi/movie/351921603109/34939156/1265702.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 266 Bautista vs Oliveira (2026)
+http://up.kiwi/movie/351921603109/34939156/1267267.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 267 Strickland vs Hernandez (2026)
+http://up.kiwi/movie/351921603109/34939156/1272379.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 268 Moreno vs Kavanagh (2026)
+http://up.kiwi/movie/351921603109/34939156/1272363.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 270 Evloev vs Murphy (2026)
+http://up.kiwi/movie/351921603109/34939156/1267761.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 271 Adesanya vs Pyfer (2026)
+http://up.kiwi/movie/351921603109/34939156/1268252.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 272 Moicano vs Duncan (2026)
+http://up.kiwi/movie/351921603109/34939156/1272135.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 275 Della Maddalena vs Prates (2026)
+http://up.kiwi/movie/351921603109/34939156/1268367.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 276 Allen vs Costa (2026)
+http://up.kiwi/movie/351921603109/34939156/1272565.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC Fight Night 278 Muhammad vs Bonfim (2026)
+http://up.kiwi/movie/351921603109/34939156/1272798.mp4
+#EXTINF:-1 group-title="ESPORTES",UFC FIGHT PASS 1 PPV HD
+http://up.kiwi/351921603109/34939156/1561
+#EXTINF:-1 group-title="ESPORTES",WOOHOO FHD H265
+http://up.kiwi/351921603109/34939156/1589
+#EXTINF:-1 group-title="ESPORTES",WOOHOO SD
+http://up.kiwi/351921603109/34939156/1592
+#EXTINF:-1 group-title="ESPORTES",WOOHOO HD²
+http://up.kiwi/351921603109/34939156/296488
+#EXTINF:-1 group-title="ESPORTES",WOOHOO SD²
+http://up.kiwi/351921603109/34939156/296489
+#EXTINF:-1 group-title="NOTÍCIAS",BAND NEWS FHD H265
+http://up.kiwi/351921603109/34939156/116
+#EXTINF:-1 group-title="NOTÍCIAS",BAND NEWS HD
+http://up.kiwi/351921603109/34939156/118
+#EXTINF:-1 group-title="NOTÍCIAS",BAND NEWS SD
+http://up.kiwi/351921603109/34939156/120
+#EXTINF:-1 group-title="NOTÍCIAS",BAND NEWS 4K²
+http://up.kiwi/351921603109/34939156/296359
+#EXTINF:-1 group-title="NOTÍCIAS",BAND NEWS HD²
+http://up.kiwi/351921603109/34939156/296335
+#EXTINF:-1 group-title="NOTÍCIAS",BAND NEWS SD²
+http://up.kiwi/351921603109/34939156/296336
+#EXTINF:-1 group-title="NOTÍCIAS",CNN BRASIL 4K
+http://up.kiwi/351921603109/34939156/299664
+#EXTINF:-1 group-title="NOTÍCIAS",CNN BRASIL FHD H265
+http://up.kiwi/351921603109/34939156/264
+#EXTINF:-1 group-title="NOTÍCIAS",CNN BRASIL HD
+http://up.kiwi/351921603109/34939156/266
+#EXTINF:-1 group-title="NOTÍCIAS",CNN BRASIL SD
+http://up.kiwi/351921603109/34939156/268
+#EXTINF:-1 group-title="NOTÍCIAS",CNN BRASIL HD²
+http://up.kiwi/351921603109/34939156/296350
+#EXTINF:-1 group-title="NOTÍCIAS",CNN BRASIL SD²
+http://up.kiwi/351921603109/34939156/296351
+#EXTINF:-1 group-title="NOTÍCIAS",JOVEM PAN NEWS 4K
+http://up.kiwi/351921603109/34939156/299675
+#EXTINF:-1 group-title="NOTÍCIAS",JOVEM PAN NEWS FHD H265
+http://up.kiwi/351921603109/34939156/707
+#EXTINF:-1 group-title="NOTÍCIAS",JOVEM PAN NEWS HD
+http://up.kiwi/351921603109/34939156/709
+#EXTINF:-1 group-title="NOTÍCIAS",JOVEM PAN NEWS HD²
+http://up.kiwi/351921603109/34939156/296344
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",ANIMAL PLANET 4K
+http://up.kiwi/351921603109/34939156/299662
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",ANIMAL PLANET FHD H265
+http://up.kiwi/351921603109/34939156/28
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
+http://up.kiwi/351921603109/34939156/30
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",ANIMAL PLANET SD
+http://up.kiwi/351921603109/34939156/32
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD²
+http://up.kiwi/351921603109/34939156/296564
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",ANIMAL PLANET SD²
+http://up.kiwi/351921603109/34939156/296565
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL 4K
+http://up.kiwi/351921603109/34939156/299666
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD H265
+http://up.kiwi/351921603109/34939156/340
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+http://up.kiwi/351921603109/34939156/342
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
+http://up.kiwi/351921603109/34939156/344
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD²
+http://up.kiwi/351921603109/34939156/296584
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL SD²
+http://up.kiwi/351921603109/34939156/296585
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY ID FHD H265
+http://up.kiwi/351921603109/34939156/351
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY ID HD
+http://up.kiwi/351921603109/34939156/353
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY ID SD
+http://up.kiwi/351921603109/34939156/355
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY ID HD²
+http://up.kiwi/351921603109/34939156/296570
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY ID SD²
+http://up.kiwi/351921603109/34939156/296571
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD H265
+http://up.kiwi/351921603109/34939156/362
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
+http://up.kiwi/351921603109/34939156/364
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE SD
+http://up.kiwi/351921603109/34939156/366
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD²
+http://up.kiwi/351921603109/34939156/296572
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE SD²
+http://up.kiwi/351921603109/34939156/296573
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY THEATER FHD H265
+http://up.kiwi/351921603109/34939156/368
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD
+http://up.kiwi/351921603109/34939156/370
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY THEATER SD
+http://up.kiwi/351921603109/34939156/372
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD²
+http://up.kiwi/351921603109/34939156/296574
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY THEATER SD²
+http://up.kiwi/351921603109/34939156/296575
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY WORLD FHD H265
+http://up.kiwi/351921603109/34939156/380
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD
+http://up.kiwi/351921603109/34939156/382
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY WORLD SD
+http://up.kiwi/351921603109/34939156/384
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD²
+http://up.kiwi/351921603109/34939156/296578
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY WORLD SD²
+http://up.kiwi/351921603109/34939156/296579
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",H2 Halloween 2 - 2009
+http://up.kiwi/movie/351921603109/34939156/1059038.mp4
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",H2: Halloween 2 [L] (2009)
+http://up.kiwi/movie/351921603109/34939156/1268325.mp4
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",HISTORY FHD H265
+http://up.kiwi/351921603109/34939156/669
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",HISTORY HD
+http://up.kiwi/351921603109/34939156/671
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",HISTORY SD
+http://up.kiwi/351921603109/34939156/673
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",HISTORY 4K²
+http://up.kiwi/351921603109/34939156/296600
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",HISTORY HD²
+http://up.kiwi/351921603109/34939156/296604
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",HISTORY SD²
+http://up.kiwi/351921603109/34939156/296605
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",History of Evil (2023)
+http://up.kiwi/movie/351921603109/34939156/1269707.mp4
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",History of Evil [L] - 2023
+http://up.kiwi/movie/351921603109/34939156/1035165.mp4
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",LOVE NATURE 4K
+http://up.kiwi/351921603109/34939156/299676
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",HISTORY 2 FHD H265
+http://up.kiwi/351921603109/34939156/558
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",HISTORY 2 HD
+http://up.kiwi/351921603109/34939156/560
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",HISTORY 2 SD
+http://up.kiwi/351921603109/34939156/562
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",HISTORY 2 4K²
+http://up.kiwi/351921603109/34939156/296601
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",HISTORY 2 HD²
+http://up.kiwi/351921603109/34939156/296602
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",HISTORY 2 SD²
+http://up.kiwi/351921603109/34939156/296603
+#EXTINF:-1 group-title="INFANTIL",BABY TV FHD H265
+http://up.kiwi/351921603109/34939156/100
+#EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK 4K
+http://up.kiwi/351921603109/34939156/299663
+#EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK FHD H265
+http://up.kiwi/351921603109/34939156/201
+#EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK HD
+http://up.kiwi/351921603109/34939156/203
+#EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK SD
+http://up.kiwi/351921603109/34939156/205
+#EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK HD²
+http://up.kiwi/351921603109/34939156/296388
+#EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK SD²
+http://up.kiwi/351921603109/34939156/296389
+#EXTINF:-1 group-title="INFANTIL",CARTOONITO FHD H265
+http://up.kiwi/351921603109/34939156/207
+#EXTINF:-1 group-title="INFANTIL",CARTOONITO HD
+http://up.kiwi/351921603109/34939156/209
+#EXTINF:-1 group-title="INFANTIL",CARTOONITO SD
+http://up.kiwi/351921603109/34939156/211
+#EXTINF:-1 group-title="INFANTIL",CARTOONITO HD²
+http://up.kiwi/351921603109/34939156/296390
+#EXTINF:-1 group-title="INFANTIL",CARTOONITO SD²
+http://up.kiwi/351921603109/34939156/296391
+#EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS FHD H265
+http://up.kiwi/351921603109/34939156/357
+#EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS HD
+http://up.kiwi/351921603109/34939156/359
+#EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS SD
+http://up.kiwi/351921603109/34939156/361
+#EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS HD²
+http://up.kiwi/351921603109/34939156/296368
+#EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS SD²
+http://up.kiwi/351921603109/34939156/296369
+#EXTINF:-1 group-title="INFANTIL",Disney 100 Um Seculo de Sonhos (2023)
+http://up.kiwi/movie/351921603109/34939156/1268461.mp4
+#EXTINF:-1 group-title="INFANTIL",Disney 100: Um Século de Sonhos [L] (2023)
+http://up.kiwi/movie/351921603109/34939156/1264994.mp4
+#EXTINF:-1 group-title="INFANTIL",Disney Entre Lacos Live (2023)
+http://up.kiwi/movie/351921603109/34939156/1271181.mp4
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 01 FHD
+http://up.kiwi/351921603109/34939156/296998
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 01 FHD ALT
+http://up.kiwi/351921603109/34939156/1252317
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 01 HD
+http://up.kiwi/351921603109/34939156/297003
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 01 HD ALT
+http://up.kiwi/351921603109/34939156/1252316
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 02 FHD
+http://up.kiwi/351921603109/34939156/296999
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 02 HD
+http://up.kiwi/351921603109/34939156/1254686
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 02 HD ALT
+http://up.kiwi/351921603109/34939156/297004
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 02 HD ALT 01
+http://up.kiwi/351921603109/34939156/1254685
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 03 FHD
+http://up.kiwi/351921603109/34939156/297000
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 03 HD
+http://up.kiwi/351921603109/34939156/297005
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 03 HD ALT
+http://up.kiwi/351921603109/34939156/1254687
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 03 HD ALT 01
+http://up.kiwi/351921603109/34939156/1254688
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 04 FHD
+http://up.kiwi/351921603109/34939156/297001
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 04 HD
+http://up.kiwi/351921603109/34939156/297006
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 04 HD ALT
+http://up.kiwi/351921603109/34939156/1254690
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 04 HD ALT 01
+http://up.kiwi/351921603109/34939156/1254689
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 05 FHD
+http://up.kiwi/351921603109/34939156/297002
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 05 HD
+http://up.kiwi/351921603109/34939156/297007
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 05 HD ALT
+http://up.kiwi/351921603109/34939156/1254691
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 05 HD ALT 01
+http://up.kiwi/351921603109/34939156/1254692
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 6 HD
+http://up.kiwi/351921603109/34939156/297008
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 7 HD
+http://up.kiwi/351921603109/34939156/297009
+#EXTINF:-1 group-title="INFANTIL",DISNEY+ 8 HD
+http://up.kiwi/351921603109/34939156/297010
+#EXTINF:-1 group-title="INFANTIL",DOG TV HD
+http://up.kiwi/351921603109/34939156/297461
+#EXTINF:-1 group-title="INFANTIL",GLOOB FHD H265
+http://up.kiwi/351921603109/34939156/543
+#EXTINF:-1 group-title="INFANTIL",GLOOB HD
+http://up.kiwi/351921603109/34939156/545
+#EXTINF:-1 group-title="INFANTIL",GLOOB SD
+http://up.kiwi/351921603109/34939156/547
+#EXTINF:-1 group-title="INFANTIL",GLOOB FHD²
+http://up.kiwi/351921603109/34939156/296362
+#EXTINF:-1 group-title="INFANTIL",GLOOB HD²
+http://up.kiwi/351921603109/34939156/296372
+#EXTINF:-1 group-title="INFANTIL",GLOOB HD³
+http://up.kiwi/351921603109/34939156/296361
+#EXTINF:-1 group-title="INFANTIL",GLOOB SD²
+http://up.kiwi/351921603109/34939156/296373
+#EXTINF:-1 group-title="INFANTIL",GLOOB SD³
+http://up.kiwi/351921603109/34939156/296360
+#EXTINF:-1 group-title="INFANTIL",GLOOBINHO FHD H265
+http://up.kiwi/351921603109/34939156/548
+#EXTINF:-1 group-title="INFANTIL",GLOOBINHO HD
+http://up.kiwi/351921603109/34939156/550
+#EXTINF:-1 group-title="INFANTIL",GLOOBINHO FHD²
+http://up.kiwi/351921603109/34939156/296365
+#EXTINF:-1 group-title="INFANTIL",GLOOBINHO HD²
+http://up.kiwi/351921603109/34939156/296364
+#EXTINF:-1 group-title="INFANTIL",GLOOBINHO HD³
+http://up.kiwi/351921603109/34939156/296374
+#EXTINF:-1 group-title="INFANTIL",GLOOBINHO SD²
+http://up.kiwi/351921603109/34939156/296363
+#EXTINF:-1 group-title="INFANTIL",GLOOBINHO SD³
+http://up.kiwi/351921603109/34939156/296375
+#EXTINF:-1 group-title="INFANTIL",Tooncast FHD
+http://up.kiwi/351921603109/34939156/1255533
+#EXTINF:-1 group-title="INFANTIL",Tooncast FHD ALT
+http://up.kiwi/351921603109/34939156/1255536
+#EXTINF:-1 group-title="INFANTIL",Tooncast HD
+http://up.kiwi/351921603109/34939156/1255534
+#EXTINF:-1 group-title="INFANTIL",Tooncast HD ALT
+http://up.kiwi/351921603109/34939156/1255537
+#EXTINF:-1 group-title="INFANTIL",Tooncast SD
+http://up.kiwi/351921603109/34939156/1255535
+#EXTINF:-1 group-title="INFANTIL",Tooncast SD ALT
+http://up.kiwi/351921603109/34939156/1255538
+#EXTINF:-1 group-title="INFANTIL",TV RA TIM BUM SD
+http://up.kiwi/351921603109/34939156/1505
+#EXTINF:-1 group-title="INFANTIL",TV RA TIM BUM HD²
+http://up.kiwi/351921603109/34939156/296384
+#EXTINF:-1 group-title="INFANTIL",TV RA TIM BUM SD²
+http://up.kiwi/351921603109/34939156/296385
+#EXTINF:-1 group-title="INFANTIL",ZOOMOO SD
+http://up.kiwi/351921603109/34939156/1784
+#EXTINF:-1 group-title="INFANTIL",ZOOMOO HD²
+http://up.kiwi/351921603109/34939156/296386
+#EXTINF:-1 group-title="INFANTIL",ZOOMOO SD²
+http://up.kiwi/351921603109/34939156/296387
+#EXTINF:-1 group-title="VARIEDADES",ARTE 1 FHD H265
+http://up.kiwi/351921603109/34939156/84
+#EXTINF:-1 group-title="VARIEDADES",ARTE 1 HD
+http://up.kiwi/351921603109/34939156/86
+#EXTINF:-1 group-title="VARIEDADES",ARTE 1 SD
+http://up.kiwi/351921603109/34939156/88
+#EXTINF:-1 group-title="VARIEDADES",ARTE 1 HD²
+http://up.kiwi/351921603109/34939156/296566
+#EXTINF:-1 group-title="VARIEDADES",ARTE 1 SD²
+http://up.kiwi/351921603109/34939156/296567
+#EXTINF:-1 group-title="VARIEDADES",BIS FHD H265
+http://up.kiwi/351921603109/34939156/168
+#EXTINF:-1 group-title="VARIEDADES",BIS HD
+http://up.kiwi/351921603109/34939156/170
+#EXTINF:-1 group-title="VARIEDADES",BIS HD²
+http://up.kiwi/351921603109/34939156/296124
+#EXTINF:-1 group-title="VARIEDADES",BIS SD²
+http://up.kiwi/351921603109/34939156/296123
+#EXTINF:-1 group-title="VARIEDADES",BRTV MAX
+http://up.kiwi/351921603109/34939156/298431
+#EXTINF:-1 group-title="VARIEDADES",CANAL DO CRIADOR SD
+http://up.kiwi/351921603109/34939156/193
+#EXTINF:-1 group-title="VARIEDADES",CNT SD
+http://up.kiwi/351921603109/34939156/276
+#EXTINF:-1 group-title="VARIEDADES",COMEDY CENTRAL FHD H265
+http://up.kiwi/351921603109/34939156/284
+#EXTINF:-1 group-title="VARIEDADES",COMEDY CENTRAL HD
+http://up.kiwi/351921603109/34939156/286
+#EXTINF:-1 group-title="VARIEDADES",COMEDY CENTRAL SD
+http://up.kiwi/351921603109/34939156/288
+#EXTINF:-1 group-title="VARIEDADES",COMEDY CENTRAL 4K²
+http://up.kiwi/351921603109/34939156/296167
+#EXTINF:-1 group-title="VARIEDADES",COMEDY CENTRAL HD²
+http://up.kiwi/351921603109/34939156/296153
+#EXTINF:-1 group-title="VARIEDADES",COMEDY CENTRAL SD²
+http://up.kiwi/351921603109/34939156/296154
+#EXTINF:-1 group-title="VARIEDADES",DISCOVERY H&H 4K
+http://up.kiwi/351921603109/34939156/299667
+#EXTINF:-1 group-title="VARIEDADES",DISCOVERY H&H FHD H265
+http://up.kiwi/351921603109/34939156/346
+#EXTINF:-1 group-title="VARIEDADES",DISCOVERY H&H HD
+http://up.kiwi/351921603109/34939156/348
+#EXTINF:-1 group-title="VARIEDADES",DISCOVERY H&H SD
+http://up.kiwi/351921603109/34939156/350
+#EXTINF:-1 group-title="VARIEDADES",DISCOVERY H&H HD²
+http://up.kiwi/351921603109/34939156/296568
+#EXTINF:-1 group-title="VARIEDADES",DISCOVERY H&H SD²
+http://up.kiwi/351921603109/34939156/296569
+#EXTINF:-1 group-title="VARIEDADES",DPA FAST
+http://up.kiwi/351921603109/34939156/305216
+#EXTINF:-1 group-title="VARIEDADES",FASHION TV HD²
+http://up.kiwi/351921603109/34939156/296157
+#EXTINF:-1 group-title="VARIEDADES",FASHION TV SD²
+http://up.kiwi/351921603109/34939156/296158
+#EXTINF:-1 group-title="VARIEDADES",FISH TV FHD H265
+http://up.kiwi/351921603109/34939156/513
+#EXTINF:-1 group-title="VARIEDADES",FISH TV HD
+http://up.kiwi/351921603109/34939156/515
+#EXTINF:-1 group-title="VARIEDADES",FISH TV SD
+http://up.kiwi/351921603109/34939156/517
+#EXTINF:-1 group-title="VARIEDADES",FISH TV HD²
+http://up.kiwi/351921603109/34939156/296159
+#EXTINF:-1 group-title="VARIEDADES",FISH TV SD²
+http://up.kiwi/351921603109/34939156/296160
+#EXTINF:-1 group-title="VARIEDADES",FOOD NETWORK FHD
+http://up.kiwi/351921603109/34939156/521
+#EXTINF:-1 group-title="VARIEDADES",FOOD NETWORK HD
+http://up.kiwi/351921603109/34939156/296133
+#EXTINF:-1 group-title="VARIEDADES",FOOD NETWORK SD
+http://up.kiwi/351921603109/34939156/523
+#EXTINF:-1 group-title="VARIEDADES",FOOD NETWORK SD²
+http://up.kiwi/351921603109/34939156/296134
+#EXTINF:-1 group-title="VARIEDADES",GNT 4K
+http://up.kiwi/351921603109/34939156/299673
+#EXTINF:-1 group-title="VARIEDADES",GNT FHD H265
+http://up.kiwi/351921603109/34939156/552
+#EXTINF:-1 group-title="VARIEDADES",GNT HD
+http://up.kiwi/351921603109/34939156/554
+#EXTINF:-1 group-title="VARIEDADES",GNT SD
+http://up.kiwi/351921603109/34939156/556
+#EXTINF:-1 group-title="VARIEDADES",GNT FHD²
+http://up.kiwi/351921603109/34939156/296122
+#EXTINF:-1 group-title="VARIEDADES",GNT HD²
+http://up.kiwi/351921603109/34939156/296121
+#EXTINF:-1 group-title="VARIEDADES",GNT HD³
+http://up.kiwi/351921603109/34939156/296135
+#EXTINF:-1 group-title="VARIEDADES",GNT SD²
+http://up.kiwi/351921603109/34939156/296120
+#EXTINF:-1 group-title="VARIEDADES",GNT SD³
+http://up.kiwi/351921603109/34939156/296136
+#EXTINF:-1 group-title="VARIEDADES",HGTV 4K
+http://up.kiwi/351921603109/34939156/667
+#EXTINF:-1 group-title="VARIEDADES",HGTV FHD
+http://up.kiwi/351921603109/34939156/665
+#EXTINF:-1 group-title="VARIEDADES",HGTV HD
+http://up.kiwi/351921603109/34939156/296137
+#EXTINF:-1 group-title="VARIEDADES",HGTV SD
+http://up.kiwi/351921603109/34939156/296138
+#EXTINF:-1 group-title="VARIEDADES",IDEAL TV HD
+http://up.kiwi/351921603109/34939156/676
+#EXTINF:-1 group-title="VARIEDADES",IDEAL TV SD
+http://up.kiwi/351921603109/34939156/677
+#EXTINF:-1 group-title="VARIEDADES",LIFETIME 4K
+http://up.kiwi/351921603109/34939156/296168
+#EXTINF:-1 group-title="VARIEDADES",LIFETIME FHD H265
+http://up.kiwi/351921603109/34939156/712
+#EXTINF:-1 group-title="VARIEDADES",LIFETIME HD²
+http://up.kiwi/351921603109/34939156/296139
+#EXTINF:-1 group-title="VARIEDADES",LIFETIME SD²
+http://up.kiwi/351921603109/34939156/296140
+#EXTINF:-1 group-title="VARIEDADES",MODO VIAGEM HD
+http://up.kiwi/351921603109/34939156/296127
+#EXTINF:-1 group-title="VARIEDADES",MODO VIAGEM FHD²
+http://up.kiwi/351921603109/34939156/296128
+#EXTINF:-1 group-title="VARIEDADES",MODO VIAGEM HD³
+http://up.kiwi/351921603109/34939156/296141
+#EXTINF:-1 group-title="VARIEDADES",MODO VIAGEM SD²
+http://up.kiwi/351921603109/34939156/296126
+#EXTINF:-1 group-title="VARIEDADES",MODO VIAGEM SD³
+http://up.kiwi/351921603109/34939156/296142
+#EXTINF:-1 group-title="VARIEDADES",MULTISHOW 4K
+http://up.kiwi/351921603109/34939156/299678
+#EXTINF:-1 group-title="VARIEDADES",MULTISHOW FHD H265
+http://up.kiwi/351921603109/34939156/745
+#EXTINF:-1 group-title="VARIEDADES",MULTISHOW HD
+http://up.kiwi/351921603109/34939156/747
+#EXTINF:-1 group-title="VARIEDADES",MULTISHOW SD
+http://up.kiwi/351921603109/34939156/749
+#EXTINF:-1 group-title="VARIEDADES",MULTISHOW FHD²
+http://up.kiwi/351921603109/34939156/296119
+#EXTINF:-1 group-title="VARIEDADES",MULTISHOW HD²
+http://up.kiwi/351921603109/34939156/296118
+#EXTINF:-1 group-title="VARIEDADES",OFF FHD H265
+http://up.kiwi/351921603109/34939156/822
+#EXTINF:-1 group-title="VARIEDADES",OFF HD
+http://up.kiwi/351921603109/34939156/824
+#EXTINF:-1 group-title="VARIEDADES",OFF SD
+http://up.kiwi/351921603109/34939156/826
+#EXTINF:-1 group-title="VARIEDADES",Off Campus: Amores Improváveis S01E01
+http://up.kiwi/series/351921603109/34939156/1287844.mp4
+#EXTINF:-1 group-title="VARIEDADES",Off Campus: Amores Improváveis S01E02
+http://up.kiwi/series/351921603109/34939156/1287843.mp4
+#EXTINF:-1 group-title="VARIEDADES",Off Campus: Amores Improváveis S01E03
+http://up.kiwi/series/351921603109/34939156/1287842.mp4
+#EXTINF:-1 group-title="VARIEDADES",Off Campus: Amores Improváveis S01E04
+http://up.kiwi/series/351921603109/34939156/1287841.mp4
+#EXTINF:-1 group-title="VARIEDADES",Off Campus: Amores Improváveis S01E05
+http://up.kiwi/series/351921603109/34939156/1287840.mp4
+#EXTINF:-1 group-title="VARIEDADES",Off Campus: Amores Improváveis S01E06
+http://up.kiwi/series/351921603109/34939156/1287839.mp4
+#EXTINF:-1 group-title="VARIEDADES",Off Campus: Amores Improváveis S01E07
+http://up.kiwi/series/351921603109/34939156/1287838.mp4
+#EXTINF:-1 group-title="VARIEDADES",Off Campus: Amores Improváveis S01E08
+http://up.kiwi/series/351921603109/34939156/1287845.mp4
+#EXTINF:-1 group-title="VARIEDADES",Off the Air Legendado (2026)
+http://up.kiwi/movie/351921603109/34939156/1262438.mp4
+#EXTINF:-1 group-title="VARIEDADES",Off the Grid [L] - 2025
+http://up.kiwi/movie/351921603109/34939156/1037344.mp4
+#EXTINF:-1 group-title="VARIEDADES",Off the Record (2025)
+http://up.kiwi/movie/351921603109/34939156/1271560.mp4
+#EXTINF:-1 group-title="VARIEDADES",Off the Record [L] (2025)
+http://up.kiwi/movie/351921603109/34939156/1264842.mp4
+#EXTINF:-1 group-title="VARIEDADES",PLAY TV FHD H265
+http://up.kiwi/351921603109/34939156/843
+#EXTINF:-1 group-title="VARIEDADES",PLAY TV HD
+http://up.kiwi/351921603109/34939156/844
+#EXTINF:-1 group-title="VARIEDADES",PLAY TV SD
+http://up.kiwi/351921603109/34939156/845
+#EXTINF:-1 group-title="VARIEDADES",POLISHOP SD
+http://up.kiwi/351921603109/34939156/857
+#EXTINF:-1 group-title="VARIEDADES",REDE BRASIL SD
+http://up.kiwi/351921603109/34939156/1112
+#EXTINF:-1 group-title="VARIEDADES",REDE TV 4K
+http://up.kiwi/351921603109/34939156/299680
+#EXTINF:-1 group-title="VARIEDADES",REDE TV HD
+http://up.kiwi/351921603109/34939156/1117
+#EXTINF:-1 group-title="VARIEDADES",REDE TV SD
+http://up.kiwi/351921603109/34939156/1119
+#EXTINF:-1 group-title="VARIEDADES",RIT TV HD
+http://up.kiwi/351921603109/34939156/1126
+#EXTINF:-1 group-title="VARIEDADES",SABOR & ARTE HD²
+http://up.kiwi/351921603109/34939156/296639
+#EXTINF:-1 group-title="VARIEDADES",SABOR & ARTE SD²
+http://up.kiwi/351921603109/34939156/296640
+#EXTINF:-1 group-title="VARIEDADES",TBS FHD H265
+http://up.kiwi/351921603109/34939156/1250
+#EXTINF:-1 group-title="VARIEDADES",TERRA VIVA FHD
+http://up.kiwi/351921603109/34939156/1292
+#EXTINF:-1 group-title="VARIEDADES",TLC FHD H265
+http://up.kiwi/351921603109/34939156/1297
+#EXTINF:-1 group-title="VARIEDADES",TLC HD
+http://up.kiwi/351921603109/34939156/1299
+#EXTINF:-1 group-title="VARIEDADES",TLC SD
+http://up.kiwi/351921603109/34939156/1301
+#EXTINF:-1 group-title="VARIEDADES",TLC HD²
+http://up.kiwi/351921603109/34939156/296150
+#EXTINF:-1 group-title="VARIEDADES",TLC SD²
+http://up.kiwi/351921603109/34939156/296151
+#EXTINF:-1 group-title="VARIEDADES",TRAVEL BOX BRAZIL FHD H265
+http://up.kiwi/351921603109/34939156/1320
+#EXTINF:-1 group-title="VARIEDADES",TRU TV FHD H265
+http://up.kiwi/351921603109/34939156/1323
+#EXTINF:-1 group-title="VARIEDADES",TRU TV HD
+http://up.kiwi/351921603109/34939156/1324
+#EXTINF:-1 group-title="VARIEDADES",TRU TV SD
+http://up.kiwi/351921603109/34939156/1325
+#EXTINF:-1 group-title="VARIEDADES",TV GAZETA FHD
+http://up.kiwi/351921603109/34939156/301996
+#EXTINF:-1 group-title="VARIEDADES",TV GAZETA HD
+http://up.kiwi/351921603109/34939156/301997
+#EXTINF:-1 group-title="VARIEDADES",TV TEM BAURU FHD
+http://up.kiwi/351921603109/34939156/296756
+#EXTINF:-1 group-title="VARIEDADES",TV TEM BAURU HD
+http://up.kiwi/351921603109/34939156/296757
+#EXTINF:-1 group-title="VARIEDADES",TV TEM BAURU SD
+http://up.kiwi/351921603109/34939156/296758
+#EXTINF:-1 group-title="VARIEDADES",VIVA 4K
+http://up.kiwi/351921603109/34939156/299688
+#EXTINF:-1 group-title="VARIEDADES",VIVA FHD
+http://up.kiwi/351921603109/34939156/296563
+#EXTINF:-1 group-title="VARIEDADES",VIVA FHD H265
+http://up.kiwi/351921603109/34939156/1579
+#EXTINF:-1 group-title="VARIEDADES",VIVA HD
+http://up.kiwi/351921603109/34939156/1581
+#EXTINF:-1 group-title="VARIEDADES",VIVA HD²
+http://up.kiwi/351921603109/34939156/296560
+#EXTINF:-1 group-title="VARIEDADES",VIVA SD²
+http://up.kiwi/351921603109/34939156/296561
+#EXTINF:-1 group-title="VARIEDADES",Viva - A Vida e uma Festa - 2017
+http://up.kiwi/movie/351921603109/34939156/1072234.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Liberdade - 2013
+http://up.kiwi/movie/351921603109/34939156/1055605.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Liberdade [L] - 2013
+http://up.kiwi/movie/351921603109/34939156/1036448.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E01
+http://up.kiwi/series/351921603109/34939156/1292119.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E02
+http://up.kiwi/series/351921603109/34939156/1292118.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E03
+http://up.kiwi/series/351921603109/34939156/1292122.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E04
+http://up.kiwi/series/351921603109/34939156/1292117.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E05
+http://up.kiwi/series/351921603109/34939156/1292116.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E06
+http://up.kiwi/series/351921603109/34939156/1292115.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E07
+http://up.kiwi/series/351921603109/34939156/1292114.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E08
+http://up.kiwi/series/351921603109/34939156/1292113.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E09
+http://up.kiwi/series/351921603109/34939156/1292112.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E10
+http://up.kiwi/series/351921603109/34939156/1292111.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E11
+http://up.kiwi/series/351921603109/34939156/1292110.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E12
+http://up.kiwi/series/351921603109/34939156/1292109.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E13
+http://up.kiwi/series/351921603109/34939156/1292108.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E14
+http://up.kiwi/series/351921603109/34939156/1292121.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E15
+http://up.kiwi/series/351921603109/34939156/1292107.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E16
+http://up.kiwi/series/351921603109/34939156/1292106.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E17
+http://up.kiwi/series/351921603109/34939156/1292105.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E18
+http://up.kiwi/series/351921603109/34939156/1292104.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E19
+http://up.kiwi/series/351921603109/34939156/1292103.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E20
+http://up.kiwi/series/351921603109/34939156/1292102.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E21
+http://up.kiwi/series/351921603109/34939156/1292101.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E22
+http://up.kiwi/series/351921603109/34939156/1292100.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E23
+http://up.kiwi/series/351921603109/34939156/1292099.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E24
+http://up.kiwi/series/351921603109/34939156/1292098.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E25
+http://up.kiwi/series/351921603109/34939156/1292120.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E26
+http://up.kiwi/series/351921603109/34939156/1292097.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E27
+http://up.kiwi/series/351921603109/34939156/1292096.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E28
+http://up.kiwi/series/351921603109/34939156/1292095.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E29
+http://up.kiwi/series/351921603109/34939156/1292094.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E30
+http://up.kiwi/series/351921603109/34939156/1292093.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E31
+http://up.kiwi/series/351921603109/34939156/1292092.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Sua Juventude S01E32
+http://up.kiwi/series/351921603109/34939156/1292091.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Vida - 2025
+http://up.kiwi/movie/351921603109/34939156/1249938.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva A Vida e uma Festa - Ao Vivo (2020)
+http://up.kiwi/movie/351921603109/34939156/1264678.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva a Vida [L] - 2025
+http://up.kiwi/movie/351921603109/34939156/1037355.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva Django - 1968
+http://up.kiwi/movie/351921603109/34939156/1069337.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva o México! - 2023
+http://up.kiwi/movie/351921603109/34939156/1053366.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva o México! [L] - 2023
+http://up.kiwi/movie/351921603109/34939156/1033016.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva os Noivos! - 2025
+http://up.kiwi/movie/351921603109/34939156/1037758.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva os Noivos! [L] - 2025
+http://up.kiwi/movie/351921603109/34939156/1038287.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva! A Babá Morreu 4K - 2024
+http://up.kiwi/movie/351921603109/34939156/1022454.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva! A Babá Morreu - 2024
+http://up.kiwi/movie/351921603109/34939156/1052953.mp4
+#EXTINF:-1 group-title="VARIEDADES",Viva! A Babá Morreu [L] - 2024
+http://up.kiwi/movie/351921603109/34939156/1031167.mp4
+#EXTINF:-1 group-title="MÚSICA",MTV FHD H265
+http://up.kiwi/351921603109/34939156/737
+#EXTINF:-1 group-title="MÚSICA",MTV HD
+http://up.kiwi/351921603109/34939156/739
+#EXTINF:-1 group-title="MÚSICA",MTV HD²
+http://up.kiwi/351921603109/34939156/296143
+#EXTINF:-1 group-title="MÚSICA",MTV SD²
+http://up.kiwi/351921603109/34939156/296146
+#EXTINF:-1 group-title="MÚSICA",MTV ao Vivo: Charlie Brown Jr. (2001)
+http://up.kiwi/movie/351921603109/34939156/1273201.mp4
+#EXTINF:-1 group-title="MÚSICA",MTV LIVE HD²
+http://up.kiwi/351921603109/34939156/296144
+#EXTINF:-1 group-title="MÚSICA",MTV LIVE SD²
+http://up.kiwi/351921603109/34939156/296145
+#EXTINF:-1 group-title="MÚSICA",MTV Video Music Awards (2010)
+http://up.kiwi/movie/351921603109/34939156/1269160.mp4
+#EXTINF:-1 group-title="MÚSICA",Music (2023)
+http://up.kiwi/movie/351921603109/34939156/1270361.mp4
+#EXTINF:-1 group-title="MÚSICA",Music - 2021
+http://up.kiwi/movie/351921603109/34939156/1071721.mp4
+#EXTINF:-1 group-title="MÚSICA",MUSIC BOX BRAZIL HD
+http://up.kiwi/351921603109/34939156/751
+#EXTINF:-1 group-title="MÚSICA",MUSIC BOX BRAZIL SD
+http://up.kiwi/351921603109/34939156/753
+#EXTINF:-1 group-title="MÚSICA",Music [L] - 2021
+http://up.kiwi/movie/351921603109/34939156/1024519.mp4
+#EXTINF:-1 group-title="MÚSICA",Music [L] - 2023
+http://up.kiwi/movie/351921603109/34939156/1033213.mp4
+#EXTINF:-1 group-title="MÚSICA",VH1 FHD H265
+http://up.kiwi/351921603109/34939156/1573
+#EXTINF:-1 group-title="MÚSICA",VH1 HD
+http://up.kiwi/351921603109/34939156/1574
+#EXTINF:-1 group-title="RELIGIOSOS",CANÇÃO NOVA FHD
+http://up.kiwi/351921603109/34939156/296222
+#EXTINF:-1 group-title="RELIGIOSOS",CANÇÃO NOVA HD
+http://up.kiwi/351921603109/34939156/296223
+#EXTINF:-1 group-title="RELIGIOSOS",REDE SUPER HD
+http://up.kiwi/351921603109/34939156/297462
+#EXTINF:-1 group-title="RELIGIOSOS",REDE VIDA FHD
+http://up.kiwi/351921603109/34939156/1122
+#EXTINF:-1 group-title="RELIGIOSOS",REDE VIDA SD
+http://up.kiwi/351921603109/34939156/1124
+#EXTINF:-1 group-title="RELIGIOSOS",REDE VIDA HD²
+http://up.kiwi/351921603109/34939156/296224
+#EXTINF:-1 group-title="RELIGIOSOS",REDE VIDA SD²
+http://up.kiwi/351921603109/34939156/296225
+#EXTINF:-1 group-title="RELIGIOSOS",REDE VIDA EDUCACAO HD
+http://up.kiwi/351921603109/34939156/1121
+#EXTINF:-1 group-title="RELIGIOSOS",TV APARECIDA HD
+http://up.kiwi/351921603109/34939156/1355
+#EXTINF:-1 group-title="RELIGIOSOS",TV APARECIDA FHD²
+http://up.kiwi/351921603109/34939156/296226
+#EXTINF:-1 group-title="RELIGIOSOS",TV APARECIDA SD²
+http://up.kiwi/351921603109/34939156/296227
+#EXTINF:-1 group-title="RELIGIOSOS",TV EVANGELIZAR HD
+http://up.kiwi/351921603109/34939156/300913
+#EXTINF:-1 group-title="RELIGIOSOS",UNIVERSAL TV 4K
+http://up.kiwi/351921603109/34939156/299687
+#EXTINF:-1 group-title="RELIGIOSOS",UNIVERSAL TV 4K
+http://up.kiwi/351921603109/34939156/1565
+#EXTINF:-1 group-title="RELIGIOSOS",UNIVERSAL TV FHD
+http://up.kiwi/351921603109/34939156/296462
+#EXTINF:-1 group-title="RELIGIOSOS",UNIVERSAL TV HD
+http://up.kiwi/351921603109/34939156/1567
+#EXTINF:-1 group-title="RELIGIOSOS",UNIVERSAL TV SD
+http://up.kiwi/351921603109/34939156/1569
+#EXTINF:-1 group-title="RELIGIOSOS",UNIVERSAL TV FHD²
+http://up.kiwi/351921603109/34939156/296459
+#EXTINF:-1 group-title="RELIGIOSOS",UNIVERSAL TV HD²
+http://up.kiwi/351921603109/34939156/296453
+#EXTINF:-1 group-title="RELIGIOSOS",UNIVERSAL TV SD²
+http://up.kiwi/351921603109/34939156/296454
+#EXTINF:-1 group-title="AGRO",AGRO+ HD²
+http://up.kiwi/351921603109/34939156/296631
+#EXTINF:-1 group-title="AGRO",AGRO+ SD²
+http://up.kiwi/351921603109/34939156/296632
+#EXTINF:-1 group-title="AGRO",CANAL DO BOI SD
+http://up.kiwi/351921603109/34939156/192
+#EXTINF:-1 group-title="AGRO",CANAL RURAL HD
+http://up.kiwi/351921603109/34939156/305211
+#EXTINF:-1 group-title="AGRO",CANAL RURAL SD
+http://up.kiwi/351921603109/34939156/305212
+#EXTINF:-1 group-title="PÚBLICOS / EDUCATIVOS",FUTURA FHD
+http://up.kiwi/351921603109/34939156/305213
+#EXTINF:-1 group-title="PÚBLICOS / EDUCATIVOS",FUTURA HD
+http://up.kiwi/351921603109/34939156/305214
+#EXTINF:-1 group-title="PÚBLICOS / EDUCATIVOS",FUTURA SD
+http://up.kiwi/351921603109/34939156/530
+#EXTINF:-1 group-title="PÚBLICOS / EDUCATIVOS",Futura (2021)
+http://up.kiwi/movie/351921603109/34939156/1270812.mp4
+#EXTINF:-1 group-title="PÚBLICOS / EDUCATIVOS",TV ALESP  HD
+http://up.kiwi/351921603109/34939156/1326
+#EXTINF:-1 group-title="PÚBLICOS / EDUCATIVOS",TV BRASIL FHD
+http://up.kiwi/351921603109/34939156/305215
+#EXTINF:-1 group-title="PÚBLICOS / EDUCATIVOS",TV BRASIL HD
+http://up.kiwi/351921603109/34939156/1368
+#EXTINF:-1 group-title="PÚBLICOS / EDUCATIVOS",TV CAMARA HD
+http://up.kiwi/351921603109/34939156/1374
+#EXTINF:-1 group-title="PÚBLICOS / EDUCATIVOS",TV CAMARA SD
+http://up.kiwi/351921603109/34939156/1376
+#EXTINF:-1 group-title="PÚBLICOS / EDUCATIVOS",TV CULTURA HD
+http://up.kiwi/351921603109/34939156/1400
+#EXTINF:-1 group-title="PÚBLICOS / EDUCATIVOS",TV CULTURA SD
+http://up.kiwi/351921603109/34939156/1402
+#EXTINF:-1 group-title="PÚBLICOS / EDUCATIVOS",TV CULTURA PR SD
+http://up.kiwi/351921603109/34939156/1398
+#EXTINF:-1 group-title="PÚBLICOS / EDUCATIVOS",TV JUSTICA SD
+http://up.kiwi/351921603109/34939156/1455
+#EXTINF:-1 group-title="PÚBLICOS / EDUCATIVOS",TV SENADO HD
+http://up.kiwi/351921603109/34939156/1511
+#EXTINF:-1 group-title="PÚBLICOS / EDUCATIVOS",TV UNESP HD
+http://up.kiwi/351921603109/34939156/1541
+#EXTINF:-1 group-title="PÚBLICOS / EDUCATIVOS",TV UNIVESP HD
+http://up.kiwi/351921603109/34939156/1542
+#EXTINF:-1 group-title="PÚBLICOS / EDUCATIVOS",TVE SD
+http://up.kiwi/351921603109/34939156/1560
+#EXTINF:-1 group-title="PÚBLICOS / EDUCATIVOS",TVE BAHIA
+http://up.kiwi/351921603109/34939156/288017
+http://up.kiwi/movie/351921603109/34939156/1266510.mp4
+http://up.kiwi/movie/351921603109/34939156/1269406.mp4
+http://up.kiwi/351921603109/34939156/1260065
+http://up.kiwi/351921603109/34939156/1260066
+http://up.kiwi/351921603109/34939156/1260067
+http://up.kiwi/351921603109/34939156/1260068
+http://up.kiwi/351921603109/34939156/1260069
+http://up.kiwi/351921603109/34939156/1260070
+http://up.kiwi/351921603109/34939156/1260071
+http://up.kiwi/351921603109/34939156/1260072
+#EXTINF:-1 group-title="NOTÍCIAS",CNN BRASIL²
+http://up.kiwi/351921603109/34939156/296357
+http://up.kiwi/movie/351921603109/34939156/1270985.mp4
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",CURTA! FHD H265
+http://up.kiwi/351921603109/34939156/290
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",CURTA! HD
+http://up.kiwi/351921603109/34939156/292
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",CURTA! SD
+http://up.kiwi/351921603109/34939156/294
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",CURTA! HD²
+http://up.kiwi/351921603109/34939156/296582
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",CURTA! SD²
+http://up.kiwi/351921603109/34939156/296583
+http://up.kiwi/movie/351921603109/34939156/1270602.mp4
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY TURBO 4K
+http://up.kiwi/351921603109/34939156/299668
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY TURBO FHD H265
+http://up.kiwi/351921603109/34939156/374
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY TURBO HD
+http://up.kiwi/351921603109/34939156/376
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY TURBO SD
+http://up.kiwi/351921603109/34939156/378
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY TURBO HD²
+http://up.kiwi/351921603109/34939156/296576
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",DISCOVERY TURBO SD²
+http://up.kiwi/351921603109/34939156/296577
+#EXTINF:-1 group-title="VARIEDADES",E! HD²
+http://up.kiwi/351921603109/34939156/296155
+#EXTINF:-1 group-title="VARIEDADES",E! SD²
+http://up.kiwi/351921603109/34939156/296156
+#EXTINF:-1 group-title="OUTROS BRASIL",FURACAO TV PPV HD
+http://up.kiwi/351921603109/34939156/526
+#EXTINF:-1 group-title="INFANTIL",GLOOBINHO²
+http://up.kiwi/351921603109/34939156/296393
+#EXTINF:-1 group-title="INFANTIL",GLOOB²
+http://up.kiwi/351921603109/34939156/296392
+http://up.kiwi/movie/351921603109/34939156/1269730.mp4
+http://up.kiwi/351921603109/34939156/660
+http://up.kiwi/351921603109/34939156/296409
+http://up.kiwi/351921603109/34939156/662
+http://up.kiwi/351921603109/34939156/664
+http://up.kiwi/351921603109/34939156/296410
+http://up.kiwi/351921603109/34939156/296417
+#EXTINF:-1 group-title="ESPORTES",LUTAS DO DIA UFC
+http://up.kiwi/351921603109/34939156/297024
+#EXTINF:-1 group-title="OUTROS BRASIL",MALHAÇÂO FAST
+http://up.kiwi/351921603109/34939156/305217
+http://up.kiwi/movie/351921603109/34939156/1272735.mp4
+http://up.kiwi/movie/351921603109/34939156/1270723.mp4
+http://up.kiwi/movie/351921603109/34939156/1272732.mp4
+http://up.kiwi/movie/351921603109/34939156/1272147.mp4
+#EXTINF:-1 group-title="OUTROS BRASIL",Nick & Norah: Uma Noite de Amor e Música - 2008
+http://up.kiwi/movie/351921603109/34939156/1071571.mp4
+http://up.kiwi/movie/351921603109/34939156/1273152.mp4
+http://up.kiwi/movie/351921603109/34939156/1072498.mp4
+http://up.kiwi/movie/351921603109/34939156/1048403.mp4
+http://up.kiwi/351921603109/34939156/297011
+http://up.kiwi/351921603109/34939156/832
+http://up.kiwi/351921603109/34939156/296323
+http://up.kiwi/351921603109/34939156/297012
+http://up.kiwi/351921603109/34939156/834
+http://up.kiwi/351921603109/34939156/296325
+http://up.kiwi/351921603109/34939156/297013
+http://up.kiwi/351921603109/34939156/835
+http://up.kiwi/351921603109/34939156/296327
+http://up.kiwi/351921603109/34939156/297014
+http://up.kiwi/351921603109/34939156/836
+http://up.kiwi/351921603109/34939156/296329
+http://up.kiwi/351921603109/34939156/297015
+http://up.kiwi/351921603109/34939156/297016
+http://up.kiwi/351921603109/34939156/297017
+http://up.kiwi/movie/351921603109/34939156/1266940.mp4
+http://up.kiwi/351921603109/34939156/964
+#EXTINF:-1 group-title="NOTÍCIAS",RBI HD
+http://up.kiwi/351921603109/34939156/965
+#EXTINF:-1 group-title="NOTÍCIAS",RBI SD
+http://up.kiwi/351921603109/34939156/966
+http://up.kiwi/movie/351921603109/34939156/1265908.mp4
+http://up.kiwi/movie/351921603109/34939156/1272733.mp4
+http://up.kiwi/movie/351921603109/34939156/1269778.mp4
+http://up.kiwi/351921603109/34939156/296650
+http://up.kiwi/351921603109/34939156/296651
+http://up.kiwi/351921603109/34939156/296652
+http://up.kiwi/351921603109/34939156/296464
+http://up.kiwi/351921603109/34939156/296465
+#EXTINF:-1 group-title="ESPORTES",X-SPORTS FHD
+http://up.kiwi/351921603109/34939156/303211
+#EXTINF:-1 group-title="ESPORTES",X-SPORTS HD
+http://up.kiwi/351921603109/34939156/303210
