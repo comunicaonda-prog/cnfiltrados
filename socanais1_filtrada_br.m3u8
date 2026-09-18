@@ -2,12 +2,24 @@
 
 ==========================================
 
-GLOBO
+GLOBO (CAPITAL E INTERIOR)
 
 ==========================================
 
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="" group-title="Globo",Globo SP
-http://link_exemplo.com/globo_sp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP SD" tvg-logo="" group-title="Globo",Globo SP SD
+http://link_exemplo.com/globo_sp_sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="" group-title="Globo",Globo SP HD
+http://link_exemplo.com/globo_sp_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP FHD" tvg-logo="" group-title="Globo",Globo SP FHD
+http://link_exemplo.com/globo_sp_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP 4K" tvg-logo="" group-title="Globo",Globo SP 4K
+http://link_exemplo.com/globo_sp_4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas FHD" tvg-logo="" group-title="Globo",EPTV Campinas FHD
+http://link_exemplo.com/eptv_campinas_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Sorocaba HD" tvg-logo="" group-title="Globo",TV TEM Sorocaba HD
+http://link_exemplo.com/tvtem_sorocaba_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Vanguarda SJC FHD" tvg-logo="" group-title="Globo",TV Vanguarda SJC FHD
+http://link_exemplo.com/vanguarda_sjc_fhd.m3u8
 
 ==========================================
 
@@ -15,8 +27,14 @@ SBT
 
 ==========================================
 
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP" tvg-logo="" group-title="SBT",SBT SP
-http://link_exemplo.com/sbt_sp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP SD" tvg-logo="" group-title="SBT",SBT SP SD
+http://link_exemplo.com/sbt_sp_sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD" tvg-logo="" group-title="SBT",SBT SP HD
+http://link_exemplo.com/sbt_sp_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP FHD" tvg-logo="" group-title="SBT",SBT SP FHD
+http://link_exemplo.com/sbt_sp_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VTV (SBT Santos) FHD" tvg-logo="" group-title="SBT",VTV (SBT Santos) FHD
+http://link_exemplo.com/vtv_santos_fhd.m3u8
 
 ==========================================
 
@@ -24,8 +42,14 @@ RECORD
 
 ==========================================
 
-#EXTINF:-1 tvg-id="" tvg-name="Record SP" tvg-logo="" group-title="Record",Record SP
-http://link_exemplo.com/record_sp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record SP SD" tvg-logo="" group-title="Record",Record SP SD
+http://link_exemplo.com/record_sp_sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record SP HD" tvg-logo="" group-title="Record",Record SP HD
+http://link_exemplo.com/record_sp_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record SP FHD" tvg-logo="" group-title="Record",Record SP FHD
+http://link_exemplo.com/record_sp_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record Interior SP FHD" tvg-logo="" group-title="Record",Record Interior SP FHD
+http://link_exemplo.com/record_interior_fhd.m3u8
 
 ==========================================
 
@@ -33,12 +57,12 @@ OUTROS CANAIS ABERTOS (SOMENTE SP)
 
 ==========================================
 
-#EXTINF:-1 tvg-id="" tvg-name="Band SP" tvg-logo="" group-title="TV Aberta",Band SP
-http://link_exemplo.com/band_sp.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RedeTV! SP" tvg-logo="" group-title="TV Aberta",RedeTV! SP
-http://link_exemplo.com/redetv_sp.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Cultura SP" tvg-logo="" group-title="TV Aberta",TV Cultura SP
-http://link_exemplo.com/cultura_sp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band SP HD" tvg-logo="" group-title="TV Aberta",Band SP HD
+http://link_exemplo.com/band_sp_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band SP FHD" tvg-logo="" group-title="TV Aberta",Band SP FHD
+http://link_exemplo.com/band_sp_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura SP FHD" tvg-logo="" group-title="TV Aberta",TV Cultura SP FHD
+http://link_exemplo.com/cultura_sp_fhd.m3u8
 
 ==========================================
 
@@ -46,16 +70,12 @@ NOTÍCIAS
 
 ==========================================
 
-#EXTINF:-1 tvg-id="" tvg-name="GloboNews" tvg-logo="" group-title="Notícias",GloboNews
-http://link_exemplo.com/globonews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil" tvg-logo="" group-title="Notícias",CNN Brasil
-http://link_exemplo.com/cnn_brasil.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BandNews" tvg-logo="" group-title="Notícias",BandNews
-http://link_exemplo.com/bandnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="" group-title="Notícias",Record News
-http://link_exemplo.com/recordnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News" tvg-logo="" group-title="Notícias",Jovem Pan News
-http://link_exemplo.com/jpnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GloboNews HD" tvg-logo="" group-title="Notícias",GloboNews HD
+http://link_exemplo.com/globonews_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GloboNews FHD" tvg-logo="" group-title="Notícias",GloboNews FHD
+http://link_exemplo.com/globonews_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil FHD" tvg-logo="" group-title="Notícias",CNN Brasil FHD
+http://link_exemplo.com/cnn_brasil_fhd.m3u8
 
 ==========================================
 
@@ -63,24 +83,34 @@ ESPORTES - SPORTV E PREMIERE
 
 ==========================================
 
-#EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="" group-title="Esportes - SporTV/Premiere",SporTV
-http://link_exemplo.com/sportv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2" tvg-logo="" group-title="Esportes - SporTV/Premiere",SporTV 2
-http://link_exemplo.com/sportv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3" tvg-logo="" group-title="Esportes - SporTV/Premiere",SporTV 3
-http://link_exemplo.com/sportv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="" group-title="Esportes - SporTV/Premiere",Premiere Clubes
-http://link_exemplo.com/premiere_clubes.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 1" tvg-logo="" group-title="Esportes - SporTV/Premiere",Premiere 1
-http://link_exemplo.com/premiere1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="" group-title="Esportes - SporTV/Premiere",Premiere 2
-http://link_exemplo.com/premiere2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="" group-title="Esportes - SporTV/Premiere",Premiere 3
-http://link_exemplo.com/premiere3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="" group-title="Esportes - SporTV/Premiere",Premiere 4
-http://link_exemplo.com/premiere4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="" group-title="Esportes - SporTV/Premiere",Premiere 5
-http://link_exemplo.com/premiere5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV SD" tvg-logo="" group-title="Esportes - SporTV/Premiere",SporTV SD
+http://link_exemplo.com/sportv1_sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV HD" tvg-logo="" group-title="Esportes - SporTV/Premiere",SporTV HD
+http://link_exemplo.com/sportv1_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV FHD" tvg-logo="" group-title="Esportes - SporTV/Premiere",SporTV FHD
+http://link_exemplo.com/sportv1_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4K" tvg-logo="" group-title="Esportes - SporTV/Premiere",SporTV 4K
+http://link_exemplo.com/sportv1_4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="" group-title="Esportes - SporTV/Premiere",SporTV 2 HD
+http://link_exemplo.com/sportv2_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 FHD" tvg-logo="" group-title="Esportes - SporTV/Premiere",SporTV 2 FHD
+http://link_exemplo.com/sportv2_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD" tvg-logo="" group-title="Esportes - SporTV/Premiere",SporTV 3 HD
+http://link_exemplo.com/sportv3_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 FHD" tvg-logo="" group-title="Esportes - SporTV/Premiere",SporTV 3 FHD
+http://link_exemplo.com/sportv3_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="" group-title="Esportes - SporTV/Premiere",Premiere Clubes HD
+http://link_exemplo.com/premiere_clubes_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes FHD" tvg-logo="" group-title="Esportes - SporTV/Premiere",Premiere Clubes FHD
+http://link_exemplo.com/premiere_clubes_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 HD" tvg-logo="" group-title="Esportes - SporTV/Premiere",Premiere 1 HD
+http://link_exemplo.com/premiere1_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 FHD" tvg-logo="" group-title="Esportes - SporTV/Premiere",Premiere 1 FHD
+http://link_exemplo.com/premiere1_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="" group-title="Esportes - SporTV/Premiere",Premiere 2 HD
+http://link_exemplo.com/premiere2_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 FHD" tvg-logo="" group-title="Esportes - SporTV/Premiere",Premiere 2 FHD
+http://link_exemplo.com/premiere2_fhd.m3u8
 
 ==========================================
 
@@ -88,23 +118,16 @@ ESPORTES - ESPN
 
 ==========================================
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="Esportes - ESPN",ESPN
-http://link_exemplo.com/espn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="Esportes - ESPN",ESPN 2
-http://link_exemplo.com/espn2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="" group-title="Esportes - ESPN",ESPN 3
-http://link_exemplo.com/espn3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="" group-title="Esportes - ESPN",ESPN 4
-http://link_exemplo.com/espn4.m3u8
-
-==========================================
-
-ESPORTES - OUTROS
-
-==========================================
-
-#EXTINF:-1 tvg-id="" tvg-name="BandSports" tvg-logo="" group-title="Esportes",BandSports
-http://link_exemplo.com/bandsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="Esportes - ESPN",ESPN HD
+http://link_exemplo.com/espn_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="" group-title="Esportes - ESPN",ESPN FHD
+http://link_exemplo.com/espn_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="" group-title="Esportes - ESPN",ESPN 4K
+http://link_exemplo.com/espn_4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="" group-title="Esportes - ESPN",ESPN 2 HD
+http://link_exemplo.com/espn2_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="" group-title="Esportes - ESPN",ESPN 2 FHD
+http://link_exemplo.com/espn2_fhd.m3u8
 
 ==========================================
 
@@ -112,45 +135,24 @@ VARIEDADES / ENTRETENIMENTO
 
 ==========================================
 
-#EXTINF:-1 tvg-id="" tvg-name="Multishow" tvg-logo="" group-title="Variedades",Multishow
-http://link_exemplo.com/multishow.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="" group-title="Variedades",GNT
-http://link_exemplo.com/gnt.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Viva" tvg-logo="" group-title="Variedades",Viva
-http://link_exemplo.com/viva.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="Variedades",Comedy Central
-http://link_exemplo.com/comedycentral.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Variedades",TLC
-http://link_exemplo.com/tlc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="" group-title="Variedades",Discovery Home & Health
-http://link_exemplo.com/hhe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="" group-title="Variedades",Multishow HD
+http://link_exemplo.com/multishow_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multishow FHD" tvg-logo="" group-title="Variedades",Multishow FHD
+http://link_exemplo.com/multishow_fhd.m3u8
 
 ==========================================
 
-DOCUMENTÁRIOS
+FILMES E SÉRIES (CANAIS LINEARES)
 
 ==========================================
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="Documentários",Discovery Channel
-http://link_exemplo.com/discovery.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="" group-title="Documentários",History
-http://link_exemplo.com/history.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="Documentários",National Geographic
-http://link_exemplo.com/natgeo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Documentários",Animal Planet
-http://link_exemplo.com/animalplanet.m3u8
-
-==========================================
-
-INFANTIL
-
-==========================================
-
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Infantil",Cartoon Network
-http://link_exemplo.com/cartoon.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="Infantil",Discovery Kids
-http://link_exemplo.com/discoverykids.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gloob" tvg-logo="" group-title="Infantil",Gloob
-http://link_exemplo.com/gloob.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="Infantil",Nickelodeon
-http://link_exemplo.com/nick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium FHD" tvg-logo="" group-title="Filmes e Séries",Telecine Premium FHD
+http://link_exemplo.com/tcpremium_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action FHD" tvg-logo="" group-title="Filmes e Séries",Telecine Action FHD
+http://link_exemplo.com/tcaction_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="" group-title="Filmes e Séries",HBO FHD
+http://link_exemplo.com/hbo_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD" tvg-logo="" group-title="Filmes e Séries",HBO 2 FHD
+http://link_exemplo.com/hbo2_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel FHD" tvg-logo="" group-title="Filmes e Séries",Warner Channel FHD
+http://link_exemplo.com/warner_fhd.m3u8
